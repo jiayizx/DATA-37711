@@ -1,5 +1,7 @@
 # Homework 2
 
+Code and data: <https://github.com/jiayizx/DATA-37711/tree/main/Homework_2>
+
 ## Problem 1
 
 ### (a) Link functions
